@@ -1,16 +1,10 @@
 # weather
 
-A new Flutter project.
+My Weather app.
 
-## Getting Started
+Home screen.
+Contains all the information fo todays weather, as well as a horizontally-scrollable view of the temperature every 4 hours.
+![alt text](https://github.com/kennychh/Weather/blob/master/Screenshot_20201210-223858.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Next 5 days
+![alt text](https://github.com/kennychh/Weather/blob/master/Screenshot_20201210-223901.png)
